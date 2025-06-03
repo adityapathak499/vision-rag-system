@@ -15,7 +15,7 @@ import time
 
 # Load environment variables
 load_dotenv()
-cohere_api_key = os.getenv("CO_API_KEY")
+cohere_api_key = os.getenv("COHERE_API_KEY")
 gemini_api_key = os.getenv("GEMINI_API_KEY")
 
 # Initialize APIs
