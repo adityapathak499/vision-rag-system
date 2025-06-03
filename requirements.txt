@@ -1,6 +1,6 @@
 streamlit==1.45.1
 cohere==5.15.0
-google-generativeai==0.8.5
+google-genai==1.16.1
 chromadb==1.0.10
 pillow==11.2.1
 requests==2.32.3
